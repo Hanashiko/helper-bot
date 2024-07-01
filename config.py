@@ -1,0 +1,3 @@
+CHECKER_ID = 
+OWNER_ID = 
+TOKEN_BOT = ""
